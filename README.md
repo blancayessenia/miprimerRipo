@@ -9,3 +9,6 @@ git push
 ```
 ## Nota:
 Si no me dice quien soy, entonces necesito restaurar la pc 
+
+## Nota:
+Volviendo a acceder al flujo de git basico sin ayuda y modificarlo .
