@@ -1,9 +1,11 @@
-# miprimerRepo
-un ejemplo de repositorio en github 
-
-# super repositorio nuevo
-
-Este es el mejor repositorio del mundo porque es mi primer github 
-
-# NUUEVA ACTUALIZACION PARA ENTENDER LOS CAMBIOS
-intento se mas lento 
+# git flow basico
+comando para el flujo de git basico
+```sh
+git status
+git add . o git add -a
+git status
+git commit -m "Descripcion del cambio en el proyecto"
+git push
+```
+## Nota:
+Si no me dice quien soy, entonces necesito restaurar la pc 
